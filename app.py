@@ -6,7 +6,7 @@ from io import BytesIO
 import time
 
 # Set Gemini API Key (Replace with your actual key)
-GEMINI_API_KEY = "AIzaSyCLz0_Vlm9uhurPJmiOMHQnEHD-rHrucrE"
+GEMINI_API_KEY = "generate your gemini ai key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Banner Image URL
